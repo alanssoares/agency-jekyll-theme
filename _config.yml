@@ -1,64 +1,47 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://fourtink.github.io
+baseurl:
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Fourtink Technology
+email: contato@fourtink.com.br
+description: "Fourtink Technology"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Alan Soares
   pic: 1
-  position: Lead Designer
+  position: CEO and Founder
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/alan_ssoares
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/alanssoaress
+    - title: google-plus
+      url: https://plus.google.com/u/0/113371852609725526957
+    - title: linkedin
+      url: https://www.linkedin.com/in/alanssoares/
+    - title: github
+      url: https://github.com/alanssoares
 
-- name: Larry Parker
+- name: Rosane Monte
   pic: 2
   position: Lead Marketer
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/viscondessa
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.linkedin.com/in/rosane-monte-b8b07b6a/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/company-beta/16176415/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Salvador Shopping Business - Alameda Salvador, 1057, sala 912 - Caminho das Arvore
+  - line: Brazil, Salvador - BA, 41820-790
 
 # Build settings
 markdown: kramdown
