@@ -2,16 +2,16 @@ url: https://fourtink.github.io
 baseurl:
 
 # Site settings
-title: Fourtink Technology
+title: Fourtink Tecnologia
 email: contato@fourtink.com.br
-description: "Fourtink Technology"
+description: "Fourtink Tecnologia"
 
 
 # Team names, titles and social links
 people:
 - name: Alan Soares
   pic: 1
-  position: CEO and Founder
+  position: CEO e Fundador
   social:
     - title: twitter
       url: https://twitter.com/alan_ssoares
@@ -26,7 +26,7 @@ people:
 
 - name: Rosane Monte
   pic: 2
-  position: Lead Marketer
+  position: Líder de Marketing e Propaganda
   social:
     - title: facebook
       url: https://www.facebook.com/viscondessa
